@@ -6,6 +6,8 @@ Built for the **Gemini API Developer Competition**.
 ## 🎥 Demo
 https://www.youtube.com/watch?v=ZQMLJJEumPg
 
+https://aistudio.google.com/app/prompts/1oXr64aPpD0BhyRJF2pyaGqIU4csvwgJg
+
 ## 💡 How it works
 1. User uploads a dashcam video.
 2. The app sends the footage to **Gemini 1.5/2.5 Pro** using the Multimodal API.
