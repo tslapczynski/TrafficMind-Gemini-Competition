@@ -4,7 +4,7 @@ TrafficMind is an automated fleet safety tool powered by **Gemini 2.5 Flash / Ge
 Built for the **Gemini API Developer Competition**.
 
 ## 🎥 Demo
-[LINK TO YOUR YOUTUBE VIDEO]
+https://www.youtube.com/watch?v=ZQMLJJEumPg
 
 ## 💡 How it works
 1. User uploads a dashcam video.
